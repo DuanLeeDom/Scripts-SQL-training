@@ -28,6 +28,21 @@ select nome, sexo, max(altura) from gafanhotos
 where sexo = 'F' and (nacionalidade = 'Brasileiro' and nacionalidade = 'Brasileira')
 order by altura;
 
+# QUESTÃO 7 
+select nome, sexo, avg(peso) from gafanhotos
+where sexo = 'M'
+order by nome desc;
+
+# QUESTÃO 8 
+select nome, sexo, nascimento from gafanhotos
+where sexo = 'F' and nascimento between '1950-01-01' and '1980-01-01'
+order by nascimento asc;
+
+# QUESTÃO 9
+select nome, sexo, altura from gafanhotos
+where sexo = 'F' and altura > 1.50
+order by altura desc; 
 
 select * from gafanhotos;
 
+# todos finalizados só dei uma adaptada pois não consegui pegar o banco de dados com as tabelas preenchidas.
