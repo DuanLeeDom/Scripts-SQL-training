@@ -8,5 +8,3 @@
 
 - [x] **Fazendo o Curso**
 - [ ] **Curso Concluído**
-
-Siga os links para acessar o material e acompanhar os estudos em MySQL. Bons estudos!
