@@ -1,0 +1,12 @@
+# Aprendizado de MySQL
+
+## Material do Curso
+
+- [Material do Curso] - Encontre o material e a lista de exercícios acima.
+
+## Status do Curso
+
+- [x] **Fazendo o Curso**
+- [ ] **Curso Concluído**
+
+Siga os links para acessar o material e acompanhar os estudos em MySQL. Bons estudos!
